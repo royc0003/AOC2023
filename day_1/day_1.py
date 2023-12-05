@@ -1,4 +1,3 @@
-import collections
 import time
 start_time = time.time()
 
